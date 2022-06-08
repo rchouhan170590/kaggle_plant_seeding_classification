@@ -1,0 +1,2 @@
+# kaggle_plant_seeding_classification
+kaggle competition plant_seeding_classification
